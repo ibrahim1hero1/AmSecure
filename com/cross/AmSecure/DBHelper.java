@@ -10,7 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 /*
    @author to  Ibrahim Hanna @2016
-                         ibrahim.seniore@gmail.com  
+               ibrahim.seniore@gmail.com  
 */
 
 
