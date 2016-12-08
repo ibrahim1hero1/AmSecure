@@ -1,9 +1,9 @@
 package com.cross.amsecure;
 
-import com.example.amsecure.R;
-import com.example.amsecure.R.id;
-import com.example.amsecure.R.layout;
-import com.example.amsecure.R.menu;
+import com.cross.amsecure.R;
+import com.cross.amsecure.R.id;
+import com.cross.amsecure.R.layout;
+import com.cross.amsecure.R.menu;
 
 import android.app.Activity;
 import android.os.Bundle;
