@@ -2,7 +2,7 @@ package com.cross.amsecure;
 
 import java.util.Iterator;
 
-import com.example.amsecure.R;
+import com.cross.amsecure.R;
 
 import android.app.Activity;
 import android.app.AlertDialog;
