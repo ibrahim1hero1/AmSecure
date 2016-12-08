@@ -3,4 +3,4 @@ This is android mobile app that help users to save site password and critical pa
 
 
 This is home screen,
-![alt tag](https://github.com/ibrahim1hero1/AmSecure/tree/master/readme/images/Screenshot_2016-12-08-17-19-54.png)
+![alt tag](https://raw.githubusercontent.com/ibrahim1hero1/AmSecure/master/readme/images/Screenshot_2016-12-08-17-19-54.png)
