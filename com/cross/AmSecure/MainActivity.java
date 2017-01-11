@@ -19,7 +19,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /*
-    @author to  Ibrahim Hanna @2016
+    @author to  Ibrahim Abdsaid Hanna @2016
                 ibrahim.seniore@gmail.com  
 */
 
