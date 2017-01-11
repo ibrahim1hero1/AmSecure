@@ -7,7 +7,7 @@ import android.media.RingtoneManager;
 import android.net.Uri;
 
 /*
-   @author to  Ibrahim Hanna @2016
+   @author to  Ibrahim Abdsaid Hanna @2016
                ibrahim.seniore@gmail.com  
 */
 
