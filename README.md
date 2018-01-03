@@ -1,6 +1,9 @@
 # AmSecure
 This is android mobile app that help users to save site password and critical passwords encrypted in your mobile , and also in next version AmSecure will be integrated with electroincs hardware that need password like doors and cars, AmSecure will be the first in security your life
 
+# If you want to be sponser please contact with me :
+# email: ibrahim.seniore@gmail.com
+# phone: +20 01005092916
 
 This is home screen, 
                                                                                                                                 
